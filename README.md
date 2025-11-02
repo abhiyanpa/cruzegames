@@ -1,6 +1,6 @@
 # CRUZE GAMES - Steam Manifest Downloader
 
-<img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/2cfd6e58-2878-441a-9d6c-c8849b48155b" />
+<img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/2cfd6e58-2878-441a-9d6c-c8849b48155b" />
 
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
