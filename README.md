@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fcruzegames.fun)](https://cruzegames.fun)
 
-CRUZE GAMES is a web-based tool that allows users to check and download Steam game manifests by their AppID. This repository contains the source code for the [cruzegames.fun](https://cruzegames.fun) website.
+CRUZE GAMES is a web-based tool that allows users to check and download Steam game manifests by their AppID.
 
 ## 🌟 Features
 
